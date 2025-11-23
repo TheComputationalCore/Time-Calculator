@@ -1,0 +1,21 @@
+[project]
+name = "time_calculator"
+version = "1.0.0"
+description = "A Python utility to calculate time additions with optional weekday handling."
+authors = [
+  { name = "TheComputationalCore" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/TheComputationalCore/Time-Calculator"
+Source = "https://github.com/TheComputationalCore/Time-Calculator"
+Issues = "https://github.com/TheComputationalCore/Time-Calculator/issues"
+
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
