@@ -1,6 +1,6 @@
 # Time Calculator
 
-A polished Python utility that computes the resulting time after adding a duration to a starting time, with optional weekday tracking.
+A Python utility that computes the resulting time after adding a duration to a starting time, with optional weekday tracking.
 
 ## Features
 - Works with **12-hour format** and AM/PM transitions  
