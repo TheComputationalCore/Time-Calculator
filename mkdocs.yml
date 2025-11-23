@@ -1,0 +1,29 @@
+site_name: Time Calculator
+site_url: https://thecomputationalcore.github.io/Time-Calculator/
+repo_url: https://github.com/TheComputationalCore/Time-Calculator
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Usage: usage.md
+  - API Reference: api.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - codehilite
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/TheComputationalCore
