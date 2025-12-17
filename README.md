@@ -140,15 +140,6 @@ Time-Calculator/
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo  
-2. Create a feature branch  
-3. Commit your improvements  
-4. Push & open a PR  
-
----
-
 ## 📜 License  
 MIT License © TheComputationalCore
 
